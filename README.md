@@ -29,6 +29,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/reactjs.svg" alt="reactjs" width="40" height="40"/> </a> 
 </p>
 
+### Services:
+<p align="left"> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/services/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="icons/services/minio.svg" alt="minio" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="icons/services/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/> </a> 
+</p>
+
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/tools/linux.svg" alt="linux" width="40" height="40"/> </a> 
@@ -37,11 +44,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="icons/tools/PyCharm.svg" alt="pycharm" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/postman.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
-### Services:
-<p align="left"> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/services/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="icons/services/minio.svg" alt="minio" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="icons/services/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/> </a> 
 </p>
