@@ -39,7 +39,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/postman.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-### Services
+### Services:
 <p align="left"> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/services/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="icons/services/minio.svg" alt="minio" width="40" height="40"/> </a> 
