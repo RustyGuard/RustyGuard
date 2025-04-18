@@ -4,7 +4,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/rustyslav" target="_blank"><img align="center" src="icons/social/Telegram.svg" alt="telegram" height="40" width="40" /></a>
+<a href="https://t.me/rusty_guard" target="_blank"><img align="center" src="icons/social/Telegram.svg" alt="telegram" height="40" width="40" /></a>
 <a href="https://gitlab.com/golovinartem2004" target="_blank"><img align="center" src="icons/social/gitlab.svg" alt="gitlab" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/15716664/rustyguard" target="_blank"><img align="center" src="icons/social/stackoverflow.svg" alt="stackoverflow" height="40" width="40" /></a>
 <a href="https://habr.com/ru/users/RustyGuard/" target="_blank"><img align="center" src="icons/social/habr.svg" alt="habr" height="60" width="60" /></a>
